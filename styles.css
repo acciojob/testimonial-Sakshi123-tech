@@ -13,9 +13,9 @@
   padding: 20px;
   border: 2px solid #ccc; /* Light border around the box */
   background-color: #fff; /* White background for each testimonial */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
-  border-radius: 8px; /* Rounded corners for the boxes */
-}
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
+  /* border-radius: 8px; /* Rounded corners for the boxes */ */
+} */
 
 /* Text Styling */
 .text {
