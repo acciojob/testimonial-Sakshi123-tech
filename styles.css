@@ -12,7 +12,7 @@
 .testimonial {
   padding: 20px;
   border: 2px solid #ccc; /* Light border around the box */
-  background-color: #fff; /* White background for each testimonial */
+  background-color: #f5f5f5 /* White background for each testimonial */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Slight shadow for depth */
   border-radius: 8px; /* Rounded corners for the boxes */
 }
@@ -31,4 +31,5 @@
   font-style: italic; /* Italicize the author name */
   font-size: 16px;
   color: #555; /* Slightly lighter color for author */
+	
 }
